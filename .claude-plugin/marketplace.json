@@ -1,0 +1,12 @@
+{
+  "name": "dev-habits",
+  "description": "Working habits for Claude Code on coding tasks.",
+  "owner": { "name": "acus9345" },
+  "plugins": [
+    {
+      "name": "dev-habits",
+      "source": "./",
+      "description": "Quality gate after big changes, researcher subagents, stuck breaker, handoff notes."
+    }
+  ]
+}

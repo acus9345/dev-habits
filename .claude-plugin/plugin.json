@@ -1,0 +1,11 @@
+{
+  "name": "dev-habits",
+  "version": "0.2.0",
+  "description": "Quality gate after big changes, researcher subagents for hard problems, a stuck breaker, Haiku agents for waiting, and handoff notes that survive compaction.",
+  "author": { "name": "acus9345" },
+  "homepage": "https://github.com/acus9345/dev-habits",
+  "repository": "https://github.com/acus9345/dev-habits",
+  "license": "MIT",
+  "keywords": ["code-review", "workflow", "subagents", "quality", "skills"],
+  "skills": "./skills/"
+}
