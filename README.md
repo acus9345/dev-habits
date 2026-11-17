@@ -39,3 +39,7 @@ Skills load when their description matches the task. To make sure this one appli
 
 - Commits, pushes and publishing still need your approval. The skill never does them on its own.
 - It never escalates to `/code-review max` or `ultra`. Those stay your call.
+
+## License
+
+MIT
